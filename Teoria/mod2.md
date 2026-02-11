@@ -25,5 +25,16 @@ A diferencia de los virus, los troyanos no se replican a sí mismos, sino que ac
   i) Gusanos: Este es un tipo de malware que se replica a sí mismo para propagarse de un ordenador a otro. A diferencia de un virus, que requiere un programa anfitrión para ejecutarse, los gusanos pueden ejecutarse por sí mismos. Aparte de la infección inicial del host, no requieren la participación del usuario y pueden propagarse muy rápidamente por la red.
   Los gusanos son responsables de algunos de los ataques más devastadores en Internet. En 2001, el gusano Code Red había infectado más de 300.000 servidores en solo 19 horas.
 
+2. Sçintomas frecuentes de malware
+   * Aumento del uso de la CPU, lo que ralentiza el dispositivo
+   * El equipo se congela o bloquea con frecuencia
+   * Dsiminucion de velocidad de navegación wekb
+   * Problemas inexplicables con las conexiones red
+   * Archivos modificados o eliminados
+   * Presencia de archivos, programas o iconos de escritorio desconocidos
+   * Se ejecutan procesos o servicios desconocidos
+   * Los programas se cierran o reconfiguran solos
+   * Se envian correos electrónicos sin el conocimiento o consentimiento del uusario
+     
   
 https://www.netacad.com/es/courses/introduction-to-cybersecurity?courseLang=en-US
